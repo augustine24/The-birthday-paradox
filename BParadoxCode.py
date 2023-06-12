@@ -1,3 +1,10 @@
+#Hello! Please visit https://www.online-python.com and copy/paste the below code starting from import random onwards into the main.py code section 
+#you will find on the website. There will be  After that use the Run button which is next to the Share button, both of which are below the section 
+#where the raw code is supposed to be.
+#Once that's done, below both of those sections there will be an output which tells you the answer to the million dollar question:
+#If you randomly put 23 people in a room, will any of them share a birthday?
+#The answer in that instance of the generated 23 people, will be showed to you and explained. Enjoy!
+
 import random
 
 numbers = random.choices(range(1,366), k =23)
